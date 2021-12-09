@@ -1,0 +1,2 @@
+- progress-bar-webpack-plugin 编译的时候有一个进度条
+- webpack-dashboard 显示一个监控面板来展示编译的详情（目前感觉还是上面那个好一点）

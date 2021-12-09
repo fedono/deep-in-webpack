@@ -32,3 +32,6 @@ Webpack cli 有哪些用处
 
 - 
 
+## 参考 
+1. https://github.com/JinJieTan/react-webpack
+2. https://github.com/sanyuan0704/webpack-box
