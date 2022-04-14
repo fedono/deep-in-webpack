@@ -18,3 +18,4 @@
         "presets": ["@babel/preset-react", "@babel/preset-env"]
     }
     ```
+- 使用 webpack-dev-server 需要在 webpack.config.js 中配置后，还需要在 package.json 配置启动，`webpack` 后面加上 `serve --open`    
